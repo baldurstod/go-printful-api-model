@@ -1,7 +1,7 @@
 package requestbodies
 
 import (
-	"github.com/baldurstod/printful-api-model/schemas"
+	"github.com/baldurstod/go-printful-api-model/schemas"
 )
 
 type CalculateTaxRates struct {
