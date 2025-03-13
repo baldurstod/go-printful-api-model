@@ -4,6 +4,6 @@ import (
 	"github.com/baldurstod/go-printful-api-model/schemas"
 )
 
-type CalculateTaxRates struct {
+type CalculateTaxRate struct {
 	Recipient schemas.TaxAddressInfo `json:"recipient" bson:"recipient" mapstructure:"recipient"`
 }
