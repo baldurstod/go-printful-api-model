@@ -1,4 +1,4 @@
-package requestbodies
+package requests
 
 import (
 	"github.com/baldurstod/go-printful-api-model/schemas"
